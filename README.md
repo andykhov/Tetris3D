@@ -15,7 +15,7 @@ Tetris3D rendered with OpenGL and written in C++
 1. create a build folder and move into build folder
 2. run "cmake .."
 3. run "make -j4"
-4. run "./Tetris3D.out"
+4. run "./Tetris3D"
 
 ## Dependencies (Or just dependency haha)
 * OpenGL
