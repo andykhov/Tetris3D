@@ -19,12 +19,13 @@ Tetris3D rendered with OpenGL and written in C++
 
 ## Dependencies (Or just dependency haha)
 * OpenGL
- * GLEW
- * GLFW
- * GLM
+    * GLEW
+    * GLFW
+    * GLM
 
+## Final Notes
 * This project was done as my final project for Cal Poly's Intro to Graphics course
 * Thank you to Christian Eckhardt for being a wonderful professor!
 * Most code was given as a base code. (except Main.cpp, Tetromino.cpp, Tetromino.h, Board.cpp, Board.h)
- * Base code is used to provide window, shader, and object management
- * Game mechanics are in Board.cpp and Tetromino.cpp
+    * Base code is used to provide window, shader, and object management
+    * Game mechanics are in Board.cpp and Tetromino.cpp
